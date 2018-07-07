@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\obj\Release\AssignmentGUI.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\obj\Release\AssignmentGUI.Paint.resources
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\obj\Release\AssignmentGUI.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\obj\Release\AssignmentGUI.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\bin\Release\AssignmentGUI.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\bin\Release\AssignmentGUI.exe
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\bin\Release\AssignmentGUI.pdb
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\obj\Release\AssignmentGUI.exe
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\obj\Release\AssignmentGUI.pdb
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\obj\Release\AssignmentGUI.Input1.resources
+c:\users\dell\documents\visual studio 2012\Projects\AssignmentGUI\AssignmentGUI\obj\Release\AssignmentGUI.Input2.resources
